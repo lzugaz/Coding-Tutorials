@@ -1,9 +1,12 @@
 
-for i in range(10):
-    print(i)
 
 
 
+n = 10
+for i in range (1, n):
+    for j in range(i):
+        print("*",end = "")
+    print()
 
 
 # Question 1:

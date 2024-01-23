@@ -7,7 +7,7 @@ d = 4
 e = 5
 
 if a != b:
-    print("not equal")
+    print("not e    qual")
 else:
     print("equal")
 
