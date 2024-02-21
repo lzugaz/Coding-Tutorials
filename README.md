@@ -23,7 +23,7 @@ Before diving into the tutorials, ensure you have the following setup:
 
 
 
-## Notes
-- Chatgpt was used to help organize the tutirial and write better explinations.
-- All txt files where randomly genorated.
+### Notes
+- ChatGPT was used to help organize the tutorial and write better explanations.
+- All text files were randomly generated.
 - The xlsx was provided by Dr. Tiantian Qin.
