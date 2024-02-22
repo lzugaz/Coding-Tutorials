@@ -6,7 +6,7 @@ Welcome to the Python Programming Tutorials, tailored specifically for students 
 
 - **Python Basics**: Introduction to Python syntax, variables, control structures, functions, and basic data types.
 - **Data Analysis with Pandas**: Comprehensive guide on using Pandas for data manipulation, analysis, and visualization, including reading from various data sources and performing advanced data operations.
-- **Advanced Pandas Features**: Delve deeper into Pandas to explore time series analysis, categorical data handling, and custom data transformations.
+- **Pandas Features**: Delve deeper into Pandas to explore time series analysis, categorical data handling, and custom data transformations.
 - **Exception Handling in Python**: Learn the best practices for error detection and handling in Python to write more reliable and robust code.
 
 ## Getting Started
