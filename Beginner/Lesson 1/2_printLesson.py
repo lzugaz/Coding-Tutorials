@@ -1,4 +1,4 @@
-# Introduction to Python Programming: Focusing on Print Statements
+# Print Statements
 
 # Part 1: Understanding Print Statements
 

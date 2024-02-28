@@ -1,4 +1,4 @@
-# Python Exception Handling: A Beginner's Guide
+# Exception Handling
 
 # Part 1: Understanding Exceptions
 # Exceptions are errors detected during execution that can cause your program to crash if not handled properly.

@@ -1,4 +1,4 @@
-# Python and Pandas for Data Analysis: A Comprehensive Tutorial
+# Python and Pandas for Data Analysis
 
 # Part 1: Introduction to Data Reading with Pandas
 import pandas as pd  # Importing the pandas library, essential for data manipulation and analysis.

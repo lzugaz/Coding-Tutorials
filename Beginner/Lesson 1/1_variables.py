@@ -1,4 +1,4 @@
-# Python Variables: A Beginner's Guide
+# Variables
 
 # Part 1: What is a Variable?
 

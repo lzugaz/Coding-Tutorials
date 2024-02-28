@@ -1,4 +1,4 @@
-# Python Classes and Object-Oriented Programming: A Beginner's Guide
+# Classes and Object-Oriented Programming
 
 # Part 1: Defining a Class
 # Classes provide a means of bundling data and functionality together.

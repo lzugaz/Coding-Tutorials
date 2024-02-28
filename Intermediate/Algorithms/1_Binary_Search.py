@@ -1,4 +1,4 @@
-# Python Binary Search: A Detailed Guide
+# Binary Search
 # Binary search is an efficient algorithm for finding an item from a sorted list of items. It works by repeatedly dividing in half the portion of the list that could contain the item, until you've narrowed the possible locations to just one.
 
 # Part 1: Understanding Binary Search
@@ -62,7 +62,7 @@ else:
 
 # Part 5: Applications of Binary Search
 # Binary search is used in various applications, such as:
-        
+
 # Searching in databases.
 # Finding the square root of a number (binary search on floating-point numbers).
 # In algorithms that require searching, such as finding the minimum or maximum element in a rotated sorted array.

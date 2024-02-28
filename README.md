@@ -28,4 +28,4 @@ Before diving into the tutorials, ensure you have the following setup:
 ### Notes
 - ChatGPT was used to help organize the tutorial and write better explanations.
 - All text files were randomly generated.
-- The xlsx was provided by Dr. Tiantian Qin.
+- The LifeExpProjectData.xlsx was provided by Dr. Tiantian Qin.

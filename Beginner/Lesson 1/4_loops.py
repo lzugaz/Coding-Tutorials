@@ -1,4 +1,4 @@
-# Introduction to Python Programming: Mastering Loops
+# Loops
 
 # Part 1: Understanding the `for` Loop
 # The `for` loop in Python is used to iterate over a sequence (such as a list, tuple, dictionary, set, or string) and execute a block of code for each item.

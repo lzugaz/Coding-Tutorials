@@ -1,4 +1,4 @@
-# Python Trees: A Beginner's Guide
+# Trees
 
 # Part 1: Understanding Trees
 # A tree is a hierarchical data structure consisting of nodes, where each node has a value and a list of references to other nodes (children).

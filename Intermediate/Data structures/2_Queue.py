@@ -1,4 +1,4 @@
-# Python Queue Data Structure: A Beginner's Guide
+#Queue
 
 # Part 1: What is a Queue?
 # A queue is a linear data structure that follows the First In, First Out (FIFO) principle.

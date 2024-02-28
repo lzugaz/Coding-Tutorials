@@ -1,4 +1,4 @@
-# Python Stack Data Structure: A Beginner's Guide
+# Stack
 
 # Part 1: What is a Stack?
 # A stack is a linear data structure that follows the Last In, First Out (LIFO) principle.

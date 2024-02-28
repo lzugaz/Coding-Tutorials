@@ -1,4 +1,4 @@
-# Python File I/O: A Beginner's Guide
+# File I/O
 
 # Part 1: Opening and Reading Files
 # To open a file, use the open() function. The 'r' mode is for reading.

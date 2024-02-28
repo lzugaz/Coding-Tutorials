@@ -1,4 +1,4 @@
-# Python Linked List: A Beginner's Guide
+#Linked List
 
 # Part 1: What is a Linked List?
 # A linked list is a linear data structure where each element (node) contains a reference (link) to the next node in the sequence.

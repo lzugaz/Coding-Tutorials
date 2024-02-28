@@ -1,4 +1,4 @@
-# Introduction to Python Programming: Mastering `if` Statements
+# If Statements
 
 # Part 1: Understanding `if` Statements
 # `if` statements are used for conditional execution in Python.

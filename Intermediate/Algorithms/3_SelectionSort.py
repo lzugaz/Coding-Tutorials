@@ -1,5 +1,4 @@
-# Python Selection Sort: A Comprehensive Guide
-
+# Selection Sort
 # Part 1: Understanding Selection Sort
 # Selection Sort is a simple comparison-based sorting algorithm. It divides the input list into two parts: a sorted sublist of items which is built up from left to right at the front (left) of the list, and a sublist of the remaining unsorted items that occupy the rest of the list. Initially, the sorted sublist is empty and the unsorted sublist is the entire input list.
 
