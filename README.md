@@ -8,6 +8,9 @@ Welcome to the Python Programming Tutorials, tailored specifically for students 
 - **Data Analysis with Pandas**: Comprehensive guide on using Pandas for data manipulation, analysis, and visualization, including reading from various data sources and performing advanced data operations.
 - **Pandas Features**: Delve deeper into Pandas to explore time series analysis, categorical data handling, and custom data transformations.
 - **Exception Handling in Python**: Learn the best practices for error detection and handling in Python to write more reliable and robust code.
+- **Algorithms**: Understand and implement fundamental algorithms in Python, such as sorting and searching algorithms, to solve common problems effectively.
+- **Data Structures**: Explore basic and advanced data structures, from arrays and linked lists to trees and graphs, and learn how to manage and process data efficiently.
+
 
 ## Getting Started
 
@@ -20,7 +23,6 @@ Before diving into the tutorials, ensure you have the following setup:
 - **Library Installation**: Some tutorials require additional Python libraries. Install them using pip:
   ```bash
   pip install pandas matplotlib
-
 
 
 ### Notes
