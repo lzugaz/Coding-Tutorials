@@ -3,6 +3,7 @@
 Welcome to the Python Programming Tutorials, tailored specifically for students of the TDM class. This collection is designed to bolster your understanding and skills in Python, covering fundamental topics, data analysis with Pandas, exception handling, and beyond. Each tutorial is crafted to facilitate a step-by-step learning experience, ensuring you gain practical knowledge applicable to your coursework and projects.
 
 ## Tutorial Contents
+It is recommended that you do all the lessons in order for the beginner tutorials.  When you get to the intermediate and advanced tutorials, commpelte it in the order given by the Tutorial Contents.
 
 - **Python Basics**: Introduction to Python syntax, variables, control structures, functions, and basic data types.
 - **Data Analysis with Pandas**: Comprehensive guide on using Pandas for data manipulation, analysis, and visualization, including reading from various data sources and performing advanced data operations.
@@ -12,6 +13,7 @@ Welcome to the Python Programming Tutorials, tailored specifically for students 
 - **Basic Data Structures**: Explore basic and advanced data structures, from arrays and linked lists to trees and graphs, and learn how to manage and process data efficiently.
 - **Trees**:
 - **Heaps**:
+- **Binary Search Trees**:
 
 
 ## Getting Started
