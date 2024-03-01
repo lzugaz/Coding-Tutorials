@@ -11,9 +11,9 @@ It is recommended that you do all the lessons in order for the beginner tutorial
 - **Exception Handling in Python**: Learn the best practices for error detection and handling in Python to write more reliable and robust code.
 - **Searching and Sorting**: Understand and implement fundamental algorithms in Python, such as sorting and searching algorithms, to solve common problems effectively.
 - **Basic Data Structures**: Explore basic and advanced data structures, from arrays and linked lists to trees and graphs, and learn how to manage and process data efficiently.
-- **Trees**:
-- **Heaps**:
-- **Binary Search Trees**:
+- **Trees**: Learn about tree data structures, their components (root, nodes, leaves), and basic operations (creation, traversal). Explore tree implementations in Python.
+- **Heaps**: Discover heaps for efficient data prioritization and sorting. Understand max and min heaps for heap operations.
+- **Binary Search Trees**: Dive into BSTs for fast data lookup, addition, and removal. Learn about their structure and implement BST operations in Python.
 
 
 ## Getting Started
