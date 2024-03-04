@@ -1,4 +1,4 @@
-# Python Hashing and Hash Functions: A Comprehensive Guide
+# Hashing and Hash Functions
 
 # Hashing is a technique used to uniquely identify a specific object from a group of similar objects.
 # Hash functions are used in hashing to compute an index into an array in which an element will be inserted or searched.
