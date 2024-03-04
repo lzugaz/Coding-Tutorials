@@ -14,7 +14,12 @@ It is recommended that you do all the lessons in order for the beginner tutorial
 - **Trees**: Learn about tree data structures, their components (root, nodes, leaves), and basic operations (creation, traversal). Explore tree implementations in Python.
 - **Heaps**: Discover heaps for efficient data prioritization and sorting. Understand max and min heaps for heap operations.
 - **Binary Search Trees**: Dive into BSTs for fast data lookup, addition, and removal. Learn about their structure and implement BST operations in Python.
-
+- **Hashing**:
+- **Strings**:
+- **Introduction to Graphs**:
+- **Undirected Graphs**:
+- **Directed Graphs**:
+- **Selected Graph Algorithms**:
 
 ## Getting Started
 

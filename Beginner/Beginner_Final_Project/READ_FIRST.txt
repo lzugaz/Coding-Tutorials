@@ -1,0 +1,14 @@
+Project: Simple Bank System
+Objective: Create a basic bank system that allows users to create an account, deposit money, withdraw money, and check their balance. The system should handle user input errors gracefully and provide meaningful feedback.
+
+Requirements:
+
+Variables: Use variables to store user details like account name, balance, etc.
+Print Statements: Display messages to the user, e.g., balance, errors, welcome messages.
+If Statements: Implement decision-making to check for sufficient funds, validate user input, etc.
+Loops: Use loops to create a simple menu that allows users to continue performing actions until they decide to exit.
+Classes: Design a class BankAccount that encapsulates the details and operations of a bank account.
+Exception Handling: Use try-except blocks to manage exceptions, particularly for input operations.
+
+Moddify Both Main.py and BankAccount.py.  To run tests go to RunTest.py and run the Python script and it will give you
+a score.
