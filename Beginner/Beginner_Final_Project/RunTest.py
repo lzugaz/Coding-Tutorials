@@ -1,4 +1,4 @@
-from Beginner.Beginner_Final_Project.Solution.BankAccount import BankAccount
+from BankAccount import BankAccount
 
 class TestBankAccount:
     def __init__(self):
